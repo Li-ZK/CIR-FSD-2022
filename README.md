@@ -1,5 +1,5 @@
 # Context Information Refinement for Few-Shot Object Detection in Remote Sensing Images
-
+Citation: Wang, Y.; Xu, C.; Liu, C Li, Z. Context Information Refinement for Few-Shot Object Detection in Remote Sensing Images. Remote Sens. 2022, 14, 3255. https:// doi.org/10.3390/rs14143255
 
 This repo contains the implementation of our *state-of-the-art* few-shot object detector for remote sensing images, described in our paper, Context Information Refinement for Few-Shot Object Detection in Remote Sensing Images. CIR-FSD is built upon the codebase [FSCE](https://github.com/MegviiDetection/FSCE) and [FsDet v0.1](https://github.com/ucbdrive/few-shot-object-detection/tags), which released by an ICML 2020 paper [Frustratingly Simple Few-Shot Object Detection](https://arxiv.org/abs/2003.06957).
 
